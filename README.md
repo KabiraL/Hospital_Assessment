@@ -1,14 +1,22 @@
 # What makes a high-value hospital?
-## A Medicare hospital value analysis in Python using 7 CMS public datasets (~5,000 hospitals), combining mortality, readmission, spending, effectiveness, and patient experience data to identify high-value providers.
+#### A Medicare hospital value analysis in Python using 7 CMS public datasets (~5,000 hospitals), combining mortality, readmission, spending, effectiveness, and patient experience data to identify high-value providers.
 
-### The business questions:  Which hospitals achieve better outcomes at a lower cost?  Do they share particular characteristics?
-The availability and affordability of healthcare is the #1 concern for Americans, according to a March 2026 Gallup poll. [https://news.gallup.com/poll/707732/healthcare-reclaims-top-spot-among-domestic-worries.aspx]  
+<hr style="border:2px solid gray">
+
+### The business questions:  
+### Which hospitals achieve better outcomes at a lower cost?  Do they share particular characteristics?
+
+<hr style="border:2px solid gray">
+
+The availability and affordability of healthcare is the #1 concern for Americans, according to a March 2026 Gallup poll.  <sub><sup>[https://news.gallup.com/poll/707732/healthcare-reclaims-top-spot-among-domestic-worries.aspx]</sup></sub> People want cost-effective healthcare.
 
 ### This project provides a tool for choosing hospitals that deliver the best outcomes relative to their cost.
 
+<hr style="border:1px solid gray">
+
 The Centers for Medicare & Medicaid Services (CMS) calculates hospital ratings annually and assigns each hospital a quality rating of 1-5 stars. They use 5 sets of data to do this.  
 
-**My analysis takes the additional step of incorporating a cost metric in order to assign hospitals an outcome value score.**
+#### *My analysis takes the additional step of incorporating a cost metric in order to assign hospitals an outcome value score.*
 
 This analysis has three parts:
 1.	Every hospital's clinical quality is scored using the same 26 outcome measures the CMS uses in its star rating system. These measures cover patient survival, readmissions, and hospital safety. 
