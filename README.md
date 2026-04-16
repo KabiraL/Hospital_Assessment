@@ -14,6 +14,8 @@ The availability and affordability of healthcare is the #1 concern for Americans
 
 <hr style="border:1px solid gray">
 
+## OVERVIEW
+
 The Centers for Medicare & Medicaid Services (CMS) calculates hospital ratings annually and assigns each hospital a quality rating of 1-5 stars. They use 5 sets of data to do this.  
 
 #### *My analysis takes the additional step of incorporating a cost metric in order to assign hospitals an outcome value score.*
