@@ -1,5 +1,5 @@
 # What makes a high-value hospital?
-## A Medicare hospital value analysis in Python using 7 CMS public datasets (~5,000 hospitals), combining mortality, readmission, spending, and patient experience data to identify high-value providers.
+## A Medicare hospital value analysis in Python using 7 CMS public datasets (~5,000 hospitals), combining mortality, readmission, spending, effectiveness, and patient experience data to identify high-value providers.
 
 ### The business questions:  Which hospitals achieve better outcomes at a lower cost?  Do they share particular characteristics?
 The availability and affordability of healthcare is the #1 concern for Americans, according to a March 2026 Gallup poll. [https://news.gallup.com/poll/707732/healthcare-reclaims-top-spot-among-domestic-worries.aspx]  
