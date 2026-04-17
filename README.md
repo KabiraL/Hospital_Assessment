@@ -21,7 +21,17 @@ The Centers for Medicare & Medicaid Services (CMS) calculates hospital ratings a
 #### *My analysis takes the additional step of incorporating a cost metric in order to assign hospitals an outcome value score.*
 
 This analysis has three parts:
-1.	Every hospital's clinical quality is scored using the same 26 outcome measures the CMS uses in its star rating system. These measures cover patient survival, readmissions, and hospital safety. 
+1.	Every hospital's clinical quality is scored using the same 26 outcome measures the CMS uses in its star rating system. These measures cover patient mortality, readmissions, and hospital safety. 
 2.	That quality score is combined with spending data to identify which hospitals deliver the best outcomes relative to their cost. All (~5,000) hospitals are divided into four value tiers. 
 3.	The distinguishing characteristics of high-value hospitals are investigated. This involves testing whether factors like hospital size, ownership, patient satisfaction, and care processes (such as how quickly sepsis is treated) predict which tier a hospital falls into.
+
+<img width="1024" height="768" alt="Hospital ERDs" src="https://github.com/user-attachments/assets/bf6614d4-869b-47a1-8953-bfca8882b41e" />
+
+
+
+
+
+
+
+
 
